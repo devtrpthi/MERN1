@@ -1,1 +1,1 @@
-First mern project
+Mern project for practice
